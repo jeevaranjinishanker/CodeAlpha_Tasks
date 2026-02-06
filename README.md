@@ -37,5 +37,5 @@ Each folder represents an individual task focused on cybersecurity awareness, se
 ---
 
 ## 👩‍💻 Author
-**Jeeva Ranjini**  
+**Jeeva Ranjini S** 
 Cybersecurity Intern | Continuous Learner 🚀
